@@ -1,0 +1,5 @@
+kustomize: copyright-without-copyright-notice
+kustomize: initial-upload-closes-no-bugs
+kustomize: no-manual-page
+kustomize: statically-linked-binary
+kustomize: zero-byte-file-in-doc-directory
