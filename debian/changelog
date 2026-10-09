@@ -1,0 +1,5 @@
+kustomize (100:5.8.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv5.8.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 09 Oct 2026 09:17:09 +0800
