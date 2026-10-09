@@ -1,0 +1,2 @@
+kustomize source: file-without-copyright-information
+kustomize source: no-debian-changes
